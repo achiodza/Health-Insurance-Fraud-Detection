@@ -1,0 +1,6 @@
+patient_id,fraudulent,patient_name,doctor_name,diagnosis,medication,quantity,item_cost,total_cost,insurance_claim_amount,claim_date
+1,0,John Smith,Dr. Jane Doe,Flu,Aspirin,10,1,10,100,2022-01-01
+2,1,Jane Doe,Dr. John Smith,Migraine,Ibuprofen,20,1.5,30,200,2022-02-01
+3,0,Bob Johnson,Dr. Sarah Lee,Back Pain,Oxycodone,5,10,50,500,2022-03-01
+4,1,Sara Lee,Dr. Bob Johnson,Anxiety,Xanax,10,5,50,300,2022-04-01
+5,0,Kevin Kim,Dr. Emily Davis,Allergies,Claritin,5,3,15,150,2022-05-01
